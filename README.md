@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hi, I'm Savan Patel
 
-<!--
-**SavanPatel02/SavanPatel02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing](https://readme-typing-svg.herokuapp.com/?color=00F7FF\&size=25\&center=true\&vCenter=true\&width=500\&lines=Data+Analyst;Machine+Learning+Enthusiast;Deep+Learning+Explorer)
 
-Here are some ideas to get you started:
+🎯 **Data Analyst | Machine Learning & Deep Learning Enthusiast**
+📍 Ahmedabad, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 💡 Passionate about **Data Analytics, Machine Learning & Deep Learning**
+* 📊 Skilled in **Python, SQL, Power BI, Excel**
+* 🤖 Worked on **AI-based projects like Disease Prediction & Deepfake Detection**
+* 🎯 Looking for **Data Analyst / ML roles**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+
+### 🤖 Machine Learning
+
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+
+### 🧠 Deep Learning
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+
+* 🔍 [Disease Prediction System](https://github.com/SavanPatel02/Disease-Prediction)
+* 🎭 [Deepfake Detection System](https://github.com/SavanPatel02)
+* 🎤 Speech Emotion Recognition
+* 📊 Sales Dashboard
+
+---
+
+## 🌐 Connect With Me
+
+📧 [savanpatel0208@gmail.com](mailto:savanpatel0208@gmail.com)
+
+---
+
+
+✨ “Turning data into decisions”
