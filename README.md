@@ -1,3 +1,4 @@
+![Banner](banner.png)
 # 👋 Hi, I'm Savan Patel
 
 ![Typing](https://readme-typing-svg.herokuapp.com/?color=00F7FF\&size=25\&center=true\&vCenter=true\&width=500\&lines=Data+Analyst;Machine+Learning+Enthusiast;Deep+Learning+Explorer)
