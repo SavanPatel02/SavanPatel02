@@ -42,7 +42,7 @@
 ## 📂 Featured Projects
 
 * 🔍 [Disease Prediction System](https://github.com/SavanPatel02/Disease-Prediction)
-* 🎭 [Deepfake Detection System]([https://github.com/SavanPatel02](https://github.com/SavanPatel02/Multimodal-Deepfake-Detection))
+* 🎭 [Deepfake Detection System](https://github.com/SavanPatel02/Multimodal-Deepfake-Detection)
 
 
 ---
