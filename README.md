@@ -1,7 +1,7 @@
 ![Banner](banner.png)
 # 👋 Hi, I'm Savan Patel
 
-🎯 **Data Analyst | Machine Learning & Deep Learning Enthusiast**
+🎯 **Data Scientist | Machine Learning & Deep Learning Enthusiast**
 📍 Ahmedabad, India
 
 ---
