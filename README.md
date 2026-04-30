@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](Savan Patel.png)
 # 👋 Hi, I'm Savan Patel
 
 🎯 **Data Scientist | Machine Learning & Deep Learning Enthusiast**
@@ -42,9 +42,8 @@
 ## 📂 Featured Projects
 
 * 🔍 [Disease Prediction System](https://github.com/SavanPatel02/Disease-Prediction)
-* 🎭 [Deepfake Detection System](https://github.com/SavanPatel02)
-* 🎤 Speech Emotion Recognition
-* 📊 Sales Dashboard
+* 🎭 [Deepfake Detection System]([https://github.com/SavanPatel02](https://github.com/SavanPatel02/Multimodal-Deepfake-Detection))
+
 
 ---
 
