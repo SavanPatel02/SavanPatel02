@@ -41,10 +41,10 @@
 
 ## 📂 Featured Projects
 
-* 🔍 [Disease Prediction System](https://github.com/SavanPatel02/Disease-Prediction)
-* 🎭 [Deepfake Detection System](https://github.com/SavanPatel02/Multimodal-Deepfake-Detection)
-
-
+*  [Disease Prediction System](https://github.com/SavanPatel02/Disease-Prediction)
+*  [Deepfake Detection System](https://github.com/SavanPatel02/Multimodal-Deepfake-Detection)
+*  [Digital Twin based prediction for Smart Infrastructure](https://github.com/SavanPatel02/Digital-Twin-Based-Prediction-for-Smart-Infrastructure)
+*  [Multimodal AI Clinical Assistant](https://github.com/SavanPatel02/Multimodal-AI-Clinical-Assistant)
 ---
 
 ## 🌐 Connect With Me
