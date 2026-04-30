@@ -1,4 +1,4 @@
-![Banner](banner(2).png)
+![Banner](banner.png)
 # 👋 Hi, I'm Savan Patel
 
 🎯 **Data Scientist | Machine Learning & Deep Learning Enthusiast**
