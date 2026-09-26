@@ -33,32 +33,6 @@ M.Tech Data Science student at PDEU, currently working as an **AI/ML Intern** on
 
 ---
 
-## 💼 Experience
-
-### AI/ML Intern — Atomo Innovations Pvt. Ltd.
-
-**Jun 2026 – Present** · On-site
-
-- Developing, training and fine-tuning **YOLO-based computer vision models** for object detection tasks
-- Handling **dataset preparation, annotation and model evaluation**
-- Optimizing and testing models through **hyperparameter tuning, performance analysis and conversion to deployment-ready formats**
-
-### Data Analytics Intern — Unified Mentor Pvt. Ltd.
-
-**Jul 2025 – Oct 2025** · Hybrid
-
-- Performed data preprocessing, exploratory data analysis and visualization
-- Built analytical dashboards and reports to support data-driven decision making
-
-### Data Analytics Intern — Maxgen Technologies Pvt. Ltd.
-
-**Jan 2025 – Jun 2025** · On-site
-
-- Worked on real-world datasets: data cleaning, exploratory analysis and predictive modeling
-- Used Python-based tools to find patterns and business insights in structured data
-
----
-
 ## 🧩 Featured Projects
 
 ### 🔥 Multimodal Deepfake Detection
@@ -131,21 +105,6 @@ Transformer-based classifier for long legal contracts.
 ### ☁️ Tools & Cloud
 
 `Git` `Docker` `Streamlit` `AWS (Data Engineering)` `Google Cloud`
-
----
-
-## 🎓 Education
-
-- **M.Tech in Data Science** — Pandit Deendayal Energy University (PDEU), Gandhinagar · 2025 – Present
-- **B.Tech in Computer Engineering** — Silver Oak University, Ahmedabad · 2021 – 2025
-
-## 📜 Certifications
-
-- AWS — Data Engineering on AWS: A Streaming Data Pipeline Solution
-- AWS — A Day in the Life of a Data Engineer
-- Accenture — Data Analytics & Visualization Job Simulation
-- Deloitte — Data Analytics Job Simulation
-- Google Cloud — Google Cloud Fundamentals and Generative AI Study Jams
 
 ---
 
