@@ -1,57 +1,74 @@
-![Banner](banner.png)
-# 👋 Hi, I'm Savan Patel
+# Hi, I'm Savan Patel 👋
 
-🎯 **Data Scientist | Machine Learning & Deep Learning Enthusiast**
-📍 Ahmedabad, India
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./dark.svg" alt="Savan Patel - AI/ML Engineer, Computer Vision">
+</picture>
 
----
+<p align="center">
+  <b>AI/ML Engineer · Computer Vision · Deep Learning · Multimodal AI</b>
+</p>
 
-## 🚀 About Me
+<p align="center">
+  👁️ Computer Vision &nbsp;·&nbsp; 🎯 YOLO / Object Detection &nbsp;·&nbsp; 🐍 Python &nbsp;·&nbsp; 🔥 PyTorch &nbsp;·&nbsp; 🐳 Docker
+</p>
 
-* 💡 Passionate about **Data Analytics, Machine Learning & Deep Learning**
-* 📊 Skilled in **Python, SQL, Power BI, Excel**
-* 🤖 Worked on **AI-based projects like Disease Prediction & Deepfake Detection**
-* 🎯 Looking for **Data Analyst / ML roles**
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
-
-### 🤖 Machine Learning
-
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-
-### 🧠 Deep Learning
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+M.Tech Data Science student at PDEU building and deploying **YOLO-based object detection models**, from dataset preparation and training to evaluation and deployment-ready conversion.
 
 ---
 
-## 📂 Featured Projects
+## 💼 Experience
 
-*  [Disease Prediction System](https://github.com/SavanPatel02/Disease-Prediction)
-*  [Deepfake Detection System](https://github.com/SavanPatel02/Multimodal-Deepfake-Detection)
-*  [Digital Twin based prediction for Smart Infrastructure](https://github.com/SavanPatel02/Digital-Twin-Based-Prediction-for-Smart-Infrastructure)
-*  [Multimodal AI Clinical Assistant](https://github.com/SavanPatel02/Multimodal-AI-Clinical-Assistant)
+**AI/ML Intern - Atomo Innovations Pvt. Ltd.** · Jun 2026 - Present
+- Train and fine-tune YOLO models for real-world detection tasks (dataset prep, annotation, evaluation)
+- Hyperparameter tuning, performance analysis and conversion to deployment-ready formats
+
+**Data Analytics Intern - Unified Mentor Pvt. Ltd.** · Jul 2025 - Oct 2025
+- Preprocessing, EDA, dashboards and reports for data-driven decisions
+
+**Data Analytics Intern - Maxgen Technologies Pvt. Ltd.** · Jan 2025 - Jun 2025
+- Data cleaning, exploratory analysis and predictive modeling in Python
+
 ---
 
-## 🌐 Connect With Me
+## 🧩 Projects
 
-📧 [savanpatel0208@gmail.com](mailto:savanpatel0208@gmail.com)
+| Project | What it does | Stack |
+|---|---|---|
+| [Multimodal Deepfake Detection](https://github.com/SavanPatel02/Multimodal-Deepfake-Detection) | Detects synthetic media from face frames + speech audio | PyTorch, Mel Spectrogram |
+| [Multimodal AI Clinical Assistant](https://github.com/SavanPatel02/Multimodal-AI-Clinical-Assistant) | Text, speech and medical-image analysis for healthcare insights | NLP, CV, Transformers |
+| [Digital Twin for Smart Infrastructure](https://github.com/SavanPatel02/Digital-Twin-Based-Prediction-for-Smart-Infrastructure) | Predicts failures on bridges and pipelines from sensor data | ML, Time Series |
+| [Legal Document Classification](https://github.com/Het-Buch/Legal-Document-Classifier) | Clause-aware contract classification | LegalBERT, HF Transformers |
+| [Disease Prediction](https://github.com/SavanPatel02/Disease-Prediction) | Symptom-based disease prediction app | XGBoost, Streamlit |
 
 ---
 
+## 🛠️ Stack
 
-✨ “Turning data into decisions”
+`Python` `PyTorch` `TensorFlow` `Keras` `Ultralytics YOLO` `Hugging Face` `Scikit-learn` `OpenCV`
+`SQL` `MongoDB` `Apache Kafka` `Docker` `Git` `Streamlit` `Java` `C`
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SavanPatel02&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
+</p>
+
+<h2 align="center">Contribution Activity</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SavanPatel02/github-snake/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SavanPatel02/github-snake/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/SavanPatel02/github-snake/output/github-snake.svg">
+  </picture>
+</p>
+
+---
+
+## 📫 Connect
+
+💼 [LinkedIn](https://www.linkedin.com/in/savanpatel02) &nbsp;·&nbsp; 🐙 [GitHub](https://github.com/SavanPatel02)
